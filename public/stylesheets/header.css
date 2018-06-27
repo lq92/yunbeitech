@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 65px;
+  background: rgba(0, 0, 0, 0.8); }
+  header .logo {
+    margin-left: 76px; }
+  header .nav {
+    display: flex;
+    margin-left: 308px;
+    margin-right: 244px; }
+    header .nav a {
+      padding: 10px 20px;
+      margin-right: 20px;
+      color: #fff; }
+      header .nav a.active {
+        border: 1px solid #656565; }
+  header #login .register, header #login .login {
+    display: inline-block;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 2px; }
+  header #login .register {
+    width: 102px;
+    margin-right: 10px;
+    background: #2fd18d;
+    color: #fff; }
+    header #login .register:hover {
+      background: #2ee296; }
+  header #login .login {
+    width: 52px;
+    background: #3c4b5e;
+    color: #a4a5a7; }
+    header #login .login:hover {
+      color: #fff; }
+
+/*# sourceMappingURL=header.css.map */

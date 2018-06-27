@@ -1,0 +1,17 @@
+body, ul, li, ol, dl, dt, h1, h2, h3, h4, h5, p {
+  font: 14px/1 'Microsoft Yahei',Arial,sans-serif;
+  padding: 0;
+  margin: 0; }
+
+li {
+  list-style: none; }
+
+a {
+  font: 14px/1 'Microsoft Yahei',Arial,sans-serif;
+  color: inherit;
+  text-decoration: none; }
+
+img {
+  vertical-align: top; }
+
+/*# sourceMappingURL=style.css.map */
